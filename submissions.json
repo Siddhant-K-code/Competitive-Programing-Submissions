@@ -1,4 +1,20 @@
 {
+  "AC12753087": {
+    "contest_id": "abc166",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc166\\C.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Peaks",
+    "problem_url": "https://atcoder.jp/contests/abc166/tasks/abc166_c",
+    "submission_id": "AC12753087",
+    "submission_url": "https://atcoder.jp/contests/abc166/submissions/12753087",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/03/2020 18:26"
+  },
   "AC13029835": {
     "contest_id": "abc167",
     "language": "C++ (GCC 9.2.1)",
