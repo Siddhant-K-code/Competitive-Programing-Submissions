@@ -1,4 +1,20 @@
 {
+  "AC13337270": {
+    "contest_id": "abc168",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc168\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": ".. (Double Dots)",
+    "problem_url": "https://atcoder.jp/contests/abc168/tasks/abc168_d",
+    "submission_id": "AC13337270",
+    "submission_url": "https://atcoder.jp/contests/abc168/submissions/13337270",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/17/2020 18:47"
+  },
   "AC13719283": {
     "contest_id": "nomura2020",
     "language": "C++ (GCC 9.2.1)",
