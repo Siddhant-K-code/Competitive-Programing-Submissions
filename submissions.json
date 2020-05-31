@@ -1,4 +1,20 @@
 {
+  "AC13865222": {
+    "contest_id": "abc169",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc169\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Multiplication 2",
+    "problem_url": "https://atcoder.jp/contests/abc169/tasks/abc169_b",
+    "submission_id": "AC13865222",
+    "submission_url": "https://atcoder.jp/contests/abc169/submissions/13865222",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/31/2020 18:44"
+  },
   "AC13865544": {
     "contest_id": "abc169",
     "language": "Python (3.8.2)",
