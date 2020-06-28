@@ -1,4 +1,20 @@
 {
+  "AC14815816": {
+    "contest_id": "intro-heuristics",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\intro-heuristics\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoder Contest Scheduling",
+    "problem_url": "https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_a",
+    "submission_id": "AC14815816",
+    "submission_url": "https://atcoder.jp/contests/intro-heuristics/submissions/14815816",
+    "tags": [
+      "AtCoder",
+      "*0"
+    ],
+    "timestamp": "Jun/28/2020 18:42"
+  },
   "AC14819602": {
     "contest_id": "intro-heuristics",
     "language": "C++ (GCC 9.2.1)",
