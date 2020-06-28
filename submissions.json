@@ -1,4 +1,20 @@
 {
+  "AC14814806": {
+    "contest_id": "intro-heuristics",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\intro-heuristics\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Scoring",
+    "problem_url": "https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_b",
+    "submission_id": "AC14814806",
+    "submission_url": "https://atcoder.jp/contests/intro-heuristics/submissions/14814806",
+    "tags": [
+      "AtCoder",
+      "*1"
+    ],
+    "timestamp": "Jun/28/2020 18:34"
+  },
   "AC14815816": {
     "contest_id": "intro-heuristics",
     "language": "C++ (GCC 9.2.1)",
