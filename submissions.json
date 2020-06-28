@@ -1,4 +1,20 @@
 {
+  "AC14811217": {
+    "contest_id": "abc172",
+    "language": "JavaScript (Node.js 12.16.1)",
+    "path": "atcoder\\abc172\\A.js",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Calc",
+    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_a",
+    "submission_id": "AC14811217",
+    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14811217",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/28/2020 18:06"
+  },
   "AC14814806": {
     "contest_id": "intro-heuristics",
     "language": "Python (3.8.2)",
