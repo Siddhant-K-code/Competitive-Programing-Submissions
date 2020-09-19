@@ -1,4 +1,20 @@
 {
+  "AC16888243": {
+    "contest_id": "abc179",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc179\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Go to Jail",
+    "problem_url": "https://atcoder.jp/contests/abc179/tasks/abc179_b",
+    "submission_id": "AC16888243",
+    "submission_url": "https://atcoder.jp/contests/abc179/submissions/16888243",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/19/2020 19:06"
+  },
   "AC16888300": {
     "contest_id": "abc179",
     "language": "Python (3.8.2)",
