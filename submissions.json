@@ -1,4 +1,20 @@
 {
+  "AC16888300": {
+    "contest_id": "abc179",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc179\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Plural Form",
+    "problem_url": "https://atcoder.jp/contests/abc179/tasks/abc179_a",
+    "submission_id": "AC16888300",
+    "submission_url": "https://atcoder.jp/contests/abc179/submissions/16888300",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/19/2020 19:06"
+  },
   "AC16888514": {
     "contest_id": "abc179",
     "language": "C++ (GCC 9.2.1)",
