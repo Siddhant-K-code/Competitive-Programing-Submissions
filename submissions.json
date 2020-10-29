@@ -1,4 +1,20 @@
 {
+  "AC17718093": {
+    "contest_id": "abc046",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc046\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoDeer and Paint Cans",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/abc046_a",
+    "submission_id": "AC17718093",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/17718093",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/29/2020 16:53"
+  },
   "AC17718224": {
     "contest_id": "abc046",
     "language": "C++ (GCC 9.2.1)",
