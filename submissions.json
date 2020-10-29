@@ -1,4 +1,20 @@
 {
+  "AC17723430": {
+    "contest_id": "abc047",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc047\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Fighting over Candies",
+    "problem_url": "https://atcoder.jp/contests/abc047/tasks/abc047_a",
+    "submission_id": "AC17723430",
+    "submission_url": "https://atcoder.jp/contests/abc047/submissions/17723430",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/29/2020 22:06"
+  },
   "AC17726953": {
     "contest_id": "abc178",
     "language": "C++ (GCC 9.2.1)",
