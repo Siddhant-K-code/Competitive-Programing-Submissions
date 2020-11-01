@@ -1,4 +1,20 @@
 {
+  "AC17804523": {
+    "contest_id": "abc181",
+    "language": "Go (1.14.1)",
+    "path": "atcoder\\abc181\\C.go",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Collinearity",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_c",
+    "submission_id": "AC17804523",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17804523",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/01/2020 18:16"
+  },
   "AC17811917": {
     "contest_id": "abc181",
     "language": "Python (3.8.2)",
