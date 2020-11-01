@@ -1,4 +1,20 @@
 {
+  "AC17792616": {
+    "contest_id": "abc181",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc181\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Heavy Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_a",
+    "submission_id": "AC17792616",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17792616",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/01/2020 17:44"
+  },
   "AC17793455": {
     "contest_id": "abc181",
     "language": "Go (1.14.1)",
