@@ -1663,6 +1663,23 @@
     ],
     "timestamp": "Jan/30/2021 18:35"
   },
+  "CF101537766": {
+    "contest_id": 1463,
+    "language": "GNU C++17",
+    "path": "codeforces\\1463\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dungeon",
+    "problem_url": "https://codeforces.com/contest/1463/problem/A",
+    "submission_id": "CF101537766",
+    "submission_url": "https://codeforces.com/contest/1463/submission/101537766",
+    "tags": [
+      "binary search",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/17/2020 20:37"
+  },
   "CF101728220": {
     "contest_id": 1459,
     "language": "GNU C++17",
