@@ -13,23 +13,24 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-20 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [C++ (GCC 9.2.1)](./atcoder/abc190/D.cpp) | `AtCoder` `*400` | Jan/30/2021 18:35 | 
-19 | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [C++ (GCC 9.2.1)](./atcoder/abc190/C.cpp) | `AtCoder` `*300` | Jan/30/2021 18:13 | 
-18 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [C++ (GCC 9.2.1)](./atcoder/abc190/B.cpp) | `AtCoder` `*200` | Jan/30/2021 17:43 | 
-17 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [C++ (GCC 9.2.1)](./atcoder/abc190/A.cpp) | `AtCoder` `*100` | Jan/30/2021 17:38 | 
-16 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [C++ (GCC 9.2.1)](./atcoder/abc189/D.cpp) | `AtCoder` `*400` | Jan/23/2021 19:09 | 
-15 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [C++ (GCC 9.2.1)](./atcoder/abc189/C.cpp) | `AtCoder` `*300` | Jan/23/2021 18:10 | 
-14 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [C++ (GCC 9.2.1)](./atcoder/abc189/A.cpp) | `AtCoder` `*100` | Jan/23/2021 18:04 | 
-13 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [C++ (GCC 9.2.1)](./atcoder/abc189/B.cpp) | `AtCoder` `*200` | Jan/23/2021 17:57 | 
-12 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [PyPy3 (7.3.0)](./atcoder/keyence2021/A.py) | `AtCoder` `*300` | Jan/16/2021 18:42 | 
-11 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 18:08 | 
-10 | [F - +1-1x2](https://atcoder.jp/contests/abc188/tasks/abc188_f) | [Python (3.8.2)](./atcoder/abc188/F.py) | `AtCoder` `*600` | Jan/10/2021 18:44 | 
-9 | [E - Peddler](https://atcoder.jp/contests/abc188/tasks/abc188_e) | [Python (3.8.2)](./atcoder/abc188/E.py) | `AtCoder` `*500` | Jan/10/2021 18:44 | 
-8 | [D - Snuke Prime](https://atcoder.jp/contests/abc188/tasks/abc188_d) | [Python (3.8.2)](./atcoder/abc188/D.py) | `AtCoder` `*400` | Jan/10/2021 18:44 | 
-7 | [C - ABC Tournament](https://atcoder.jp/contests/abc188/tasks/abc188_c) | [C++ (GCC 9.2.1)](./atcoder/abc188/C.cpp) | `AtCoder` `*300` | Jan/10/2021 17:56 | 
-6 | [B - Orthogonality](https://atcoder.jp/contests/abc188/tasks/abc188_b) | [C++ (GCC 9.2.1)](./atcoder/abc188/B.cpp) | `AtCoder` `*200` | Jan/10/2021 17:43 | 
-5 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [C++ (GCC 9.2.1)](./atcoder/abc188/A.cpp) | `AtCoder` `*100` | Jan/10/2021 17:36 | 
-4 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/09/2021 19:13 | 
-3 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 19:10 | 
-2 | [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f) | [PyPy3 (7.3.0)](./atcoder/abc187/F.py) | `AtCoder` `*600` | Jan/02/2021 19:03 | 
-1 | [E - Through Path](https://atcoder.jp/contests/abc187/tasks/abc187_e) | [Python (3.8.2)](./atcoder/abc187/E.py) | `AtCoder` `*500` | Jan/02/2021 19:02 | 
+21 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [C++ (GCC 9.2.1)](./atcoder/abc190/D.cpp) | `AtCoder` `*400` | Jan/30/2021 18:35 | 
+20 | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [C++ (GCC 9.2.1)](./atcoder/abc190/C.cpp) | `AtCoder` `*300` | Jan/30/2021 18:13 | 
+19 | [B - Magic 3](https://atcoder.jp/contests/abc190/tasks/abc190_b) | [C++ (GCC 9.2.1)](./atcoder/abc190/B.cpp) | `AtCoder` `*200` | Jan/30/2021 17:43 | 
+18 | [A - Very Very Primitive Game](https://atcoder.jp/contests/abc190/tasks/abc190_a) | [C++ (GCC 9.2.1)](./atcoder/abc190/A.cpp) | `AtCoder` `*100` | Jan/30/2021 17:38 | 
+17 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [C++ (GCC 9.2.1)](./atcoder/abc189/D.cpp) | `AtCoder` `*400` | Jan/23/2021 19:09 | 
+16 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [C++ (GCC 9.2.1)](./atcoder/abc189/C.cpp) | `AtCoder` `*300` | Jan/23/2021 18:10 | 
+15 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [C++ (GCC 9.2.1)](./atcoder/abc189/A.cpp) | `AtCoder` `*100` | Jan/23/2021 18:04 | 
+14 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [C++ (GCC 9.2.1)](./atcoder/abc189/B.cpp) | `AtCoder` `*200` | Jan/23/2021 17:57 | 
+13 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [PyPy3 (7.3.0)](./atcoder/keyence2021/A.py) | `AtCoder` `*300` | Jan/16/2021 18:42 | 
+12 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 18:08 | 
+11 | [F - +1-1x2](https://atcoder.jp/contests/abc188/tasks/abc188_f) | [Python (3.8.2)](./atcoder/abc188/F.py) | `AtCoder` `*600` | Jan/10/2021 18:44 | 
+10 | [E - Peddler](https://atcoder.jp/contests/abc188/tasks/abc188_e) | [Python (3.8.2)](./atcoder/abc188/E.py) | `AtCoder` `*500` | Jan/10/2021 18:44 | 
+9 | [D - Snuke Prime](https://atcoder.jp/contests/abc188/tasks/abc188_d) | [Python (3.8.2)](./atcoder/abc188/D.py) | `AtCoder` `*400` | Jan/10/2021 18:44 | 
+8 | [C - ABC Tournament](https://atcoder.jp/contests/abc188/tasks/abc188_c) | [C++ (GCC 9.2.1)](./atcoder/abc188/C.cpp) | `AtCoder` `*300` | Jan/10/2021 17:56 | 
+7 | [B - Orthogonality](https://atcoder.jp/contests/abc188/tasks/abc188_b) | [C++ (GCC 9.2.1)](./atcoder/abc188/B.cpp) | `AtCoder` `*200` | Jan/10/2021 17:43 | 
+6 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [C++ (GCC 9.2.1)](./atcoder/abc188/A.cpp) | `AtCoder` `*100` | Jan/10/2021 17:36 | 
+5 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/09/2021 19:13 | 
+4 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 19:10 | 
+3 | [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f) | [PyPy3 (7.3.0)](./atcoder/abc187/F.py) | `AtCoder` `*600` | Jan/02/2021 19:03 | 
+2 | [E - Through Path](https://atcoder.jp/contests/abc187/tasks/abc187_e) | [Python (3.8.2)](./atcoder/abc187/E.py) | `AtCoder` `*500` | Jan/02/2021 19:02 | 
+1 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [Python (3.8.2)](./atcoder/abc187/D.py) | `AtCoder` `*400` | Jan/02/2021 18:54 | 
