@@ -1,4 +1,20 @@
 {
+  "AC19347457": {
+    "contest_id": "abc188",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc188\\E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Peddler",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_e",
+    "submission_id": "AC19347457",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19347457",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/10/2021 18:44"
+  },
   "AC19347554": {
     "contest_id": "abc188",
     "language": "Python (3.8.2)",
