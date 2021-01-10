@@ -1,4 +1,20 @@
 {
+  "AC19347356": {
+    "contest_id": "abc188",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc188\\D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snuke Prime",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_d",
+    "submission_id": "AC19347356",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19347356",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/10/2021 18:44"
+  },
   "AC19347457": {
     "contest_id": "abc188",
     "language": "Python (3.8.2)",
