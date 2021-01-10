@@ -1,4 +1,20 @@
 {
+  "AC19347554": {
+    "contest_id": "abc188",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc188\\F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "+1-1x2",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_f",
+    "submission_id": "AC19347554",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19347554",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/10/2021 18:44"
+  },
   "AC19468450": {
     "contest_id": "keyence2021",
     "language": "C++ (GCC 9.2.1)",
