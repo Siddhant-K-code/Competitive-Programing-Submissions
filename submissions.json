@@ -1,4 +1,20 @@
 {
+  "AC19472486": {
+    "contest_id": "keyence2021",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\keyence2021\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Two Sequences 2",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a",
+    "submission_id": "AC19472486",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/19472486",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/16/2021 18:42"
+  },
   "AC19613766": {
     "contest_id": "abc189",
     "language": "C++ (GCC 9.2.1)",
