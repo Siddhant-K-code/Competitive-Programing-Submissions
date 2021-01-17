@@ -53,9 +53,6 @@ typedef multiset<int> MSETI;
 /******** User-defined Function *******/
 void solve()
 {
-    /* ll a, b;
-    sll(a);
-    sll(b); */
     ll n, k;
     cin >> n >> k;
     ll u = 2 * k - n - 1;
