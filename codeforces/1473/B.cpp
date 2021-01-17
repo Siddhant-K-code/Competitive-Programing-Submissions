@@ -60,14 +60,15 @@ void solve()
     cin >> a >> b;
 
     // Algorithm
-    /* if (a.length() > b.length())
+    if (a.length() > b.length())
     {
         string temp = a;
         a = b;
         b = temp;
-    } */
+    }
     int m = a.length();
     int n = (a.length() * b.length()) / (__gcd(a.length(), b.length()));
+    //cout<<n<<" ";
     string ans = b;
     while (ans.length() < n)
         ans = ans + b;
