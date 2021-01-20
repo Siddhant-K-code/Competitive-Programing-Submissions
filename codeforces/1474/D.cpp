@@ -83,7 +83,7 @@ signed main()
     freopen("output.txt", "w", stdout);
 #endif
 
-    /*__*/ double start = clock(); /*__*/
+    /*__*/ //double start = clock(); /*__*/
 
     //_______________________   _______________
     ll T;
@@ -142,6 +142,6 @@ signed main()
             cout << "NO" << endl;
     }
     //______________________________________
-    cerr << "Time " << (clock() - start) * 1.000000000 / CLOCKS_PER_SEC << setprecision(9) << "s\n";
+    //cerr << "Time " << (clock() - start) * 1.000000000 / CLOCKS_PER_SEC << setprecision(9) << "s\n";
 }
 /********  Main() Ends Here *************/
