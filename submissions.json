@@ -206,6 +206,25 @@
     ],
     "timestamp": "Dec/23/2020 13:04"
   },
+  "CF104873854": {
+    "contest_id": 1474,
+    "language": "GNU C++17",
+    "path": "codeforces\\1474\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cleaning",
+    "problem_url": "https://codeforces.com/contest/1474/problem/D",
+    "submission_id": "CF104873854",
+    "submission_url": "https://codeforces.com/contest/1474/submission/104873854",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jan/20/2021 11:18"
+  },
   "CF105317701": {
     "contest_id": 1475,
     "language": "GNU C++17",
