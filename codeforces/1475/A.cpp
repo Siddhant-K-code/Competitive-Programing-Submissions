@@ -1,11 +1,16 @@
-// Optimizations Check - 2
+// Checking GCC Optimizations
+
 /*
  * Author : Siddhant Khare
  */
 #include <bits/stdc++.h>
 using namespace std;
-#pragma GCC optimize("Ofast")
-#pragma GCC optimize ("unroll-loops")
+#pragma GCC optimize("-Ofast")
+// #pragma GCC optimize("trapv")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,sse4.2,popcnt,abm,mmx,avx2,tune=native")
+#pragma GCC optimize("-ffast-math")
+#pragma GCC optimize("-funroll-loops")
+#pragma GCC optimize("-funroll-all-loops,-fpeel-loops,-funswitch-loops")
 
 /*******  All Required define Pre-Processors and typedef Constants *******/
 #define ll long long
