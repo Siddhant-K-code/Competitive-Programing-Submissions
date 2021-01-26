@@ -1,12 +1,12 @@
+// Optimizations Check - 2
 /*
  * Author : Siddhant Khare
  */
 #include <bits/stdc++.h>
 using namespace std;
-
-/*******  All Required define Pre-Processors for Optimizations *******/
 #pragma GCC optimize("Ofast")
-#pragma GCC optimize("unroll-loops")
+#pragma GCC optimize ("unroll-loops")
+
 /*******  All Required define Pre-Processors and typedef Constants *******/
 #define ll long long
 #define ld long double
@@ -82,10 +82,6 @@ int main()
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 #endif
-
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
 
     /*__*/ double start = clock(); /*__*/
 
