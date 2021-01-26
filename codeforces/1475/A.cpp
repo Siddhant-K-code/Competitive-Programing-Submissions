@@ -1,4 +1,3 @@
-// Speed Check
 /*
  * Author : Siddhant Khare
  */
