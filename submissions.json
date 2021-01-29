@@ -2737,6 +2737,25 @@
     ],
     "timestamp": "Jan/28/2021 21:35"
   },
+  "CF105931853": {
+    "contest_id": 1476,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1476\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Simple Cycle",
+    "problem_url": "https://codeforces.com/contest/1476/problem/C",
+    "submission_id": "CF105931853",
+    "submission_url": "https://codeforces.com/contest/1476/submission/105931853",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Jan/29/2021 21:52"
+  },
   "CF105943457": {
     "contest_id": 1476,
     "language": "GNU C++17 (64)",
