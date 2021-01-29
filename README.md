@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-168 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17 (64)](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `math` | Jan/30/2021 08:17 | 
-167 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17 (64)](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` `implementation` | Jan/29/2021 22:30 | 
-166 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `constructive algorithms` `dp` `graphs` `greedy` `implementation` | Jan/29/2021 21:52 | 
+169 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17 (64)](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `math` | Jan/30/2021 08:17 | 
+168 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17 (64)](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` `implementation` | Jan/29/2021 22:30 | 
+167 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `constructive algorithms` `dp` `graphs` `greedy` `implementation` | Jan/29/2021 21:52 | 
+166 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `greedy` `math` | Jan/29/2021 21:35 | 
 165 | [C - Nezzar and Symmetric Array](https://codeforces.com/contest/1478/problem/C) | [GNU C++17 (64)](./codeforces/1478/C.cpp) | `implementation` `math` `sortings` `*1700` | Jan/28/2021 21:35 | 
 164 | [D - Nezzar and Board](https://codeforces.com/contest/1478/problem/D) | [GNU C++17 (64)](./codeforces/1478/D.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Jan/28/2021 20:54 | 
 163 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17 (64)](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jan/28/2021 20:37 | 
