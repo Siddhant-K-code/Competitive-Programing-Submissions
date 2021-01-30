@@ -1599,6 +1599,22 @@
     ],
     "timestamp": "Jan/23/2021 19:09"
   },
+  "AC19808932": {
+    "contest_id": "abc190",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc190\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Staircase Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_d",
+    "submission_id": "AC19808932",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19808932",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/30/2021 18:35"
+  },
   "CF100002343": {
     "contest_id": 1455,
     "language": "GNU C++17",
