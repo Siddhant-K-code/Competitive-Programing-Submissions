@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-174 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [GNU C++17 (64)](./codeforces/1480/D1.cpp) | `data structures` `dp` `greedy` | Feb/08/2021 08:19 | 
-173 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17 (64)](./codeforces/1480/C.cpp) | `binary search` `interactive` | Feb/08/2021 08:11 | 
+175 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [GNU C++17 (64)](./codeforces/1480/D1.cpp) | `data structures` `dp` `greedy` | Feb/08/2021 08:19 | 
+174 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17 (64)](./codeforces/1480/C.cpp) | `binary search` `interactive` | Feb/08/2021 08:11 | 
+173 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17 (64)](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 20:55 | 
 172 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` `*1300` | Feb/06/2021 12:11 | 
 171 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `dp` `graphs` `greedy` `*1600` | Feb/06/2021 12:11 | 
 170 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++17 (64)](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` `implementation` | Feb/06/2021 10:55 | 
