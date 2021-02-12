@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+183 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [GNU C++17 (64)](./codeforces/1485/C.cpp) | `brute force` `math` `number theory` | Feb/12/2021 21:25 | 
 182 | [E - Sorting Books](https://codeforces.com/contest/1481/problem/E) | [GNU C++17 (64)](./codeforces/1481/E.cpp) | `data structures` `dp` `greedy` `*2500` | Feb/09/2021 13:07 | 
 181 | [D - AB Graph](https://codeforces.com/contest/1481/problem/D) | [GNU C++17 (64)](./codeforces/1481/D.cpp) | `brute force` `constructive algorithms` `graphs` `greedy` `implementation` `*2000` | Feb/09/2021 12:53 | 
 180 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [GNU C++17 (64)](./codeforces/1480/D1.cpp) | `data structures` `dp` `greedy` `implementation` `*1900` | Feb/08/2021 08:19 | 
 179 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17 (64)](./codeforces/1480/C.cpp) | `binary search` `interactive` `ternary search` `*1700` | Feb/08/2021 08:11 | 
 178 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17 (64)](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 20:55 | 
 177 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17 (64)](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 20:16 | 
-176 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `dp` `graphs` `greedy` `*1600` | Feb/06/2021 12:11 | 
-175 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` `*1300` | Feb/06/2021 12:11 | 
+176 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` `*1300` | Feb/06/2021 12:11 | 
+175 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `dp` `graphs` `greedy` `*1600` | Feb/06/2021 12:11 | 
 174 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++17 (64)](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2021 10:55 | 
 173 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17 (64)](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` `*1100` | Feb/05/2021 20:51 | 
 172 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17 (64)](./codeforces/1481/A.cpp) | `greedy` `strings` `*800` | Feb/05/2021 20:23 | 
@@ -34,7 +35,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 164 | [D - Nezzar and Board](https://codeforces.com/contest/1478/problem/D) | [GNU C++17 (64)](./codeforces/1478/D.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Jan/28/2021 20:54 | 
 163 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17 (64)](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jan/28/2021 20:37 | 
 162 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [GNU C++17 (64)](./codeforces/1478/A.cpp) | `brute force` `greedy` `*800` | Jan/28/2021 20:10 | 
-161 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [GNU C++17 (64)](./codeforces/1475/A.cpp) | `math` `number theory` `*900` | Jan/26/2021 15:46 | 
+161 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [GNU C++17](./codeforces/1475/A.cpp) | `math` `number theory` `*900` | Jan/26/2021 15:46 | 
 160 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++17](./codeforces/1475/C.cpp) | `combinatorics` `graphs` `math` `*1400` | Jan/25/2021 22:15 | 
 159 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [GNU C++17](./codeforces/1475/B.cpp) | `brute force` `dp` `math` `*900` | Jan/25/2021 20:42 | 
 158 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [C++ (GCC 9.2.1)](./atcoder/abc189/D.cpp) | `AtCoder` `*400` | Jan/23/2021 19:09 | 
