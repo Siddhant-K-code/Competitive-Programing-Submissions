@@ -1663,6 +1663,22 @@
     ],
     "timestamp": "Jan/30/2021 18:35"
   },
+  "AC20159629": {
+    "contest_id": "arc112",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\arc112\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "-- - B",
+    "problem_url": "https://atcoder.jp/contests/arc112/tasks/arc112_b",
+    "submission_id": "AC20159629",
+    "submission_url": "https://atcoder.jp/contests/arc112/submissions/20159629",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/13/2021 19:11"
+  },
   "CF100002343": {
     "contest_id": 1455,
     "language": "GNU C++17",
