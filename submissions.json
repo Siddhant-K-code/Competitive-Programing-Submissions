@@ -3125,6 +3125,21 @@
     ],
     "timestamp": "Feb/13/2021 11:08"
   },
+  "CF107424568": {
+    "contest_id": 1487,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1487\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cat Cycle",
+    "problem_url": "https://codeforces.com/contest/1487/problem/B",
+    "submission_id": "CF107424568",
+    "submission_url": "https://codeforces.com/contest/1487/submission/107424568",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/15/2021 20:27"
+  },
   "CF107431379": {
     "contest_id": 1487,
     "language": "GNU C++17 (64)",
