@@ -3125,6 +3125,21 @@
     ],
     "timestamp": "Feb/13/2021 11:08"
   },
+  "CF107444949": {
+    "contest_id": 1487,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1487\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Ties",
+    "problem_url": "https://codeforces.com/contest/1487/problem/C",
+    "submission_id": "CF107444949",
+    "submission_url": "https://codeforces.com/contest/1487/submission/107444949",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Feb/15/2021 21:12"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
