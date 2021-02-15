@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-189 | [C - Minimum Ties](https://codeforces.com/contest/1487/problem/C) | [GNU C++17 (64)](./codeforces/1487/C.cpp) | `constructive algorithms` | Feb/15/2021 21:12 | 
-188 | [D - Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | [GNU C++17 (64)](./codeforces/1487/D.cpp) | `binary search` `brute force` `math` | Feb/15/2021 20:43 | 
-187 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [GNU C++17 (64)](./codeforces/1487/B.cpp) | `math` | Feb/15/2021 20:27 | 
+190 | [C - Minimum Ties](https://codeforces.com/contest/1487/problem/C) | [GNU C++17 (64)](./codeforces/1487/C.cpp) | `constructive algorithms` | Feb/15/2021 21:12 | 
+189 | [D - Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | [GNU C++17 (64)](./codeforces/1487/D.cpp) | `binary search` `brute force` `math` | Feb/15/2021 20:43 | 
+188 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [GNU C++17 (64)](./codeforces/1487/B.cpp) | `math` | Feb/15/2021 20:27 | 
+187 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [GNU C++17 (64)](./codeforces/1487/A.cpp) | `implementation` | Feb/15/2021 20:12 | 
 186 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [GNU C++17 (64)](./codeforces/1485/D.cpp) | `constructive algorithms` `math` `number theory` `*2200` | Feb/13/2021 11:08 | 
 185 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [GNU C++17 (64)](./codeforces/1485/C.cpp) | `brute force` `math` `number theory` | Feb/12/2021 21:25 | 
 184 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [GNU C++17 (64)](./codeforces/1485/B.cpp) | `combinatorics` `dp` `implementation` `math` | Feb/12/2021 20:47 | 
