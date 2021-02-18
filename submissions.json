@@ -3291,6 +3291,21 @@
     ],
     "timestamp": "Feb/17/2021 16:51"
   },
+  "CF107816519": {
+    "contest_id": 1486,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1486\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Eastern Exhibition",
+    "problem_url": "https://codeforces.com/contest/1486/problem/B",
+    "submission_id": "CF107816519",
+    "submission_url": "https://codeforces.com/contest/1486/submission/107816519",
+    "tags": [
+      "sortings"
+    ],
+    "timestamp": "Feb/18/2021 20:48"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
