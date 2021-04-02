@@ -3459,6 +3459,22 @@
     ],
     "timestamp": "Mar/29/2021 20:33"
   },
+  "CF111766880": {
+    "contest_id": 1505,
+    "language": "GNU C++17",
+    "path": "codeforces\\1505\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DMCA",
+    "problem_url": "https://codeforces.com/contest/1505/problem/B",
+    "submission_id": "CF111766880",
+    "submission_url": "https://codeforces.com/contest/1505/submission/111766880",
+    "tags": [
+      "implementation",
+      "number theory"
+    ],
+    "timestamp": "Apr/02/2021 13:33"
+  },
   "CF111790461": {
     "contest_id": 1505,
     "language": "GNU C++17",
