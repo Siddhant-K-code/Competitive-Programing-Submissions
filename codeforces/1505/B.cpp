@@ -69,7 +69,6 @@ typedef multiset<int> MSETI;
 /******** User-defined Function *******/
 void solve()
 {
-    cout << fixed << setprecision(11);
     ll num;
     sll(num);
     num %= 9;
