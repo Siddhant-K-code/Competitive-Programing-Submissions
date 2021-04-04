@@ -3459,6 +3459,23 @@
     ],
     "timestamp": "Mar/29/2021 20:33"
   },
+  "CF111961311": {
+    "contest_id": 1504,
+    "language": "GNU C++17",
+    "path": "codeforces\\1504\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Balance the Bits",
+    "problem_url": "https://codeforces.com/contest/1504/problem/C",
+    "submission_id": "CF111961311",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111961311",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Apr/04/2021 08:22"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
