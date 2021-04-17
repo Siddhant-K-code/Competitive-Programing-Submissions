@@ -3628,6 +3628,21 @@
     ],
     "timestamp": "Apr/12/2021 21:41"
   },
+  "CF113309452": {
+    "contest_id": 1509,
+    "language": "GNU C++17",
+    "path": "codeforces\\1509\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "TMT Document",
+    "problem_url": "https://codeforces.com/contest/1509/problem/B",
+    "submission_id": "CF113309452",
+    "submission_url": "https://codeforces.com/contest/1509/submission/113309452",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Apr/17/2021 13:50"
+  },
   "CF113310668": {
     "contest_id": 1509,
     "language": "GNU C++17",
