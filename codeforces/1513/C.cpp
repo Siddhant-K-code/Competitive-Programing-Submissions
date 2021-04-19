@@ -53,7 +53,7 @@ using namespace std;
     cout.tie(NULL)
 #define PI 3.1415926535897932384626433832795
 const int MAX_N = 1e5 + 5;
-const ll MOD = 1e9 + 7;
+const ll MOD = 1000000007;
 const ll INF = 1e18;
 #define read(type) readInt<type>()
 const double pi = acos(-1.0);

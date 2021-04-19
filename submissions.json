@@ -3691,6 +3691,23 @@
     ],
     "timestamp": "Apr/17/2021 14:23"
   },
+  "CF113472319": {
+    "contest_id": 1513,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1513\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Add One",
+    "problem_url": "https://codeforces.com/contest/1513/problem/C",
+    "submission_id": "CF113472319",
+    "submission_url": "https://codeforces.com/contest/1513/submission/113472319",
+    "tags": [
+      "dp",
+      "matrices",
+      "*1600"
+    ],
+    "timestamp": "Apr/19/2021 15:02"
+  },
   "CF113472374": {
     "contest_id": 1513,
     "language": "GNU C++17 (64)",
