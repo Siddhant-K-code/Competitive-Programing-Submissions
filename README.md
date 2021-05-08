@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+238 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17 (64)](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/08/2021 13:44 | 
 237 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/08/2021 13:13 | 
 236 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17 (64)](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/08/2021 13:00 | 
 235 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [GNU C++17 (64)](./codeforces/1515/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | May/08/2021 12:54 | 
