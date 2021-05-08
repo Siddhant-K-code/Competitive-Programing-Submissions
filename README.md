@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-235 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/08/2021 13:13 | 
+236 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17 (64)](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/08/2021 13:13 | 
+235 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17 (64)](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/08/2021 13:00 | 
 234 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++17 (64)](./codeforces/1521/B.cpp) | `constructive algorithms` `math` | May/08/2021 12:28 | 
 233 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [GNU C++17 (64)](./codeforces/1521/A.cpp) | `constructive algorithms` `math` | May/08/2021 12:19 | 
 232 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17 (64)](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `sortings` `two pointers` | Apr/30/2021 17:54 | 
