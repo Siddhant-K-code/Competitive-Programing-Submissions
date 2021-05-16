@@ -1695,6 +1695,22 @@
     ],
     "timestamp": "Feb/13/2021 19:11"
   },
+  "AC22663579": {
+    "contest_id": "arc119",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc119\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "119 \u00d7 2^23 + 1",
+    "problem_url": "https://atcoder.jp/contests/arc119/tasks/arc119_a",
+    "submission_id": "AC22663579",
+    "submission_url": "https://atcoder.jp/contests/arc119/submissions/22663579",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/16/2021 17:42"
+  },
   "AC22668847": {
     "contest_id": "arc119",
     "language": "C++ (GCC 9.2.1)",

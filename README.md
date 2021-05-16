@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-243 | [B - Electric Board](https://atcoder.jp/contests/arc119/tasks/arc119_b) | [C++ (GCC 9.2.1)](./atcoder/arc119/B.cpp) | `AtCoder` `*500` | May/16/2021 18:43 | 
-242 | [C - ARC Wrecker 2](https://atcoder.jp/contests/arc119/tasks/arc119_c) | [C++ (GCC 9.2.1)](./atcoder/arc119/C.cpp) | `AtCoder` `*500` | May/16/2021 18:41 | 
+244 | [B - Electric Board](https://atcoder.jp/contests/arc119/tasks/arc119_b) | [C++ (GCC 9.2.1)](./atcoder/arc119/B.cpp) | `AtCoder` `*500` | May/16/2021 18:43 | 
+243 | [C - ARC Wrecker 2](https://atcoder.jp/contests/arc119/tasks/arc119_c) | [C++ (GCC 9.2.1)](./atcoder/arc119/C.cpp) | `AtCoder` `*500` | May/16/2021 18:41 | 
+242 | [A - 119 × 2^23 + 1](https://atcoder.jp/contests/arc119/tasks/arc119_a) | [C++ (GCC 9.2.1)](./atcoder/arc119/A.cpp) | `AtCoder` `*300` | May/16/2021 17:42 | 
 241 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [GNU C++17 (64)](./codeforces/1520/C.cpp) | `constructive algorithms` `*1000` | May/12/2021 19:55 | 
 240 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [GNU C++17 (64)](./codeforces/1520/B.cpp) | `brute force` `math` `number theory` `*800` | May/12/2021 19:48 | 
 239 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | May/12/2021 19:45 | 
