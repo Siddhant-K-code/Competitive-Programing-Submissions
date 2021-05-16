@@ -1695,6 +1695,22 @@
     ],
     "timestamp": "Feb/13/2021 19:11"
   },
+  "AC22668956": {
+    "contest_id": "arc119",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc119\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Electric Board",
+    "problem_url": "https://atcoder.jp/contests/arc119/tasks/arc119_b",
+    "submission_id": "AC22668956",
+    "submission_url": "https://atcoder.jp/contests/arc119/submissions/22668956",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/16/2021 18:43"
+  },
   "CF100002343": {
     "contest_id": 1455,
     "language": "GNU C++17",
