@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-252 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [GNU C++17 (64)](./codeforces/1255/B.cpp) | `graphs` `implementation` `*1100` | May/18/2021 09:42 | 
-251 | [A - Changing Volume](https://codeforces.com/contest/1255/problem/A) | [GNU C++17 (64)](./codeforces/1255/A.cpp) | `math` `*800` | May/18/2021 08:47 | 
-250 | [C - Sweets Eating](https://codeforces.com/contest/1253/problem/C) | [GNU C++17 (64)](./codeforces/1253/C.cpp) | `dp` `greedy` `math` `sortings` `*1500` | May/17/2021 22:35 | 
-249 | [B - Silly Mistake](https://codeforces.com/contest/1253/problem/B) | [GNU C++17 (64)](./codeforces/1253/B.cpp) | `greedy` `implementation` `*1400` | May/17/2021 22:13 | 
-248 | [A - Single Push](https://codeforces.com/contest/1253/problem/A) | [GNU C++17 (64)](./codeforces/1253/A.cpp) | `implementation` `*1000` | May/17/2021 21:57 | 
+253 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [GNU C++17 (64)](./codeforces/1255/B.cpp) | `graphs` `implementation` `*1100` | May/18/2021 09:42 | 
+252 | [A - Changing Volume](https://codeforces.com/contest/1255/problem/A) | [GNU C++17 (64)](./codeforces/1255/A.cpp) | `math` `*800` | May/18/2021 08:47 | 
+251 | [C - Sweets Eating](https://codeforces.com/contest/1253/problem/C) | [GNU C++17 (64)](./codeforces/1253/C.cpp) | `dp` `greedy` `math` `sortings` `*1500` | May/17/2021 22:35 | 
+250 | [B - Silly Mistake](https://codeforces.com/contest/1253/problem/B) | [GNU C++17 (64)](./codeforces/1253/B.cpp) | `greedy` `implementation` `*1400` | May/17/2021 22:13 | 
+249 | [A - Single Push](https://codeforces.com/contest/1253/problem/A) | [GNU C++17 (64)](./codeforces/1253/A.cpp) | `implementation` `*1000` | May/17/2021 21:57 | 
+248 | [D - Armchairs](https://codeforces.com/contest/1525/problem/D) | [GNU C++17 (64)](./codeforces/1525/D.cpp) | `dp` `flows` `graph matchings` `greedy` | May/17/2021 16:05 | 
 247 | [C - Queen](https://codeforces.com/contest/1143/problem/C) | [GNU C++17 (64)](./codeforces/1143/C.cpp) | `dfs and similar` `trees` `*1400` | May/17/2021 12:50 | 
 246 | [A - Party](https://codeforces.com/contest/115/problem/A) | [GNU C++17 (64)](./codeforces/115/A.cpp) | `dfs and similar` `graphs` `trees` `*900` | May/17/2021 12:07 | 
 245 | [B - Electric Board](https://atcoder.jp/contests/arc119/tasks/arc119_b) | [C++ (GCC 9.2.1)](./atcoder/arc119/B.cpp) | `AtCoder` `*500` | May/16/2021 18:43 | 
