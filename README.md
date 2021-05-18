@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+248 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [GNU C++17 (64)](./codeforces/1255/B.cpp) | `graphs` `implementation` `*1100` | May/18/2021 09:42 | 
 247 | [C - Queen](https://codeforces.com/contest/1143/problem/C) | [GNU C++17 (64)](./codeforces/1143/C.cpp) | `dfs and similar` `trees` `*1400` | May/17/2021 12:50 | 
 246 | [A - Party](https://codeforces.com/contest/115/problem/A) | [GNU C++17 (64)](./codeforces/115/A.cpp) | `dfs and similar` `graphs` `trees` `*900` | May/17/2021 12:07 | 
 245 | [B - Electric Board](https://atcoder.jp/contests/arc119/tasks/arc119_b) | [C++ (GCC 9.2.1)](./atcoder/arc119/B.cpp) | `AtCoder` `*500` | May/16/2021 18:43 | 
