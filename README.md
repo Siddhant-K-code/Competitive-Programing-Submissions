@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-255 | [B - Box](https://codeforces.com/contest/1262/problem/B) | [GNU C++17 (64)](./codeforces/1262/B.cpp) | `constructive algorithms` `*1200` | May/19/2021 08:44 | 
+256 | [B - Box](https://codeforces.com/contest/1262/problem/B) | [GNU C++17 (64)](./codeforces/1262/B.cpp) | `constructive algorithms` `*1200` | May/19/2021 08:44 | 
+255 | [A - Math Problem](https://codeforces.com/contest/1262/problem/A) | [GNU C++17 (64)](./codeforces/1262/A.cpp) | `greedy` `math` `*1100` | May/19/2021 07:54 | 
 254 | [B - Fridge Lockers](https://codeforces.com/contest/1255/problem/B) | [GNU C++17 (64)](./codeforces/1255/B.cpp) | `graphs` `implementation` `*1100` | May/18/2021 09:42 | 
 253 | [A - Changing Volume](https://codeforces.com/contest/1255/problem/A) | [GNU C++17 (64)](./codeforces/1255/A.cpp) | `math` `*800` | May/18/2021 08:47 | 
 252 | [C - Sweets Eating](https://codeforces.com/contest/1253/problem/C) | [GNU C++17 (64)](./codeforces/1253/C.cpp) | `dp` `greedy` `math` `sortings` `*1500` | May/17/2021 22:35 | 

@@ -4300,6 +4300,23 @@
     ],
     "timestamp": "May/18/2021 09:42"
   },
+  "CF116610150": {
+    "contest_id": 1262,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1262\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Math Problem",
+    "problem_url": "https://codeforces.com/contest/1262/problem/A",
+    "submission_id": "CF116610150",
+    "submission_url": "https://codeforces.com/contest/1262/submission/116610150",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/19/2021 07:54"
+  },
   "CF116611709": {
     "contest_id": 1262,
     "language": "GNU C++17 (64)",
