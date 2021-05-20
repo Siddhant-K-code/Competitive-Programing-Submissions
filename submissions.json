@@ -4333,6 +4333,24 @@
     ],
     "timestamp": "May/19/2021 08:44"
   },
+  "CF116795578": {
+    "contest_id": 1527,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1527\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence Pair Weight",
+    "problem_url": "https://codeforces.com/contest/1527/problem/C",
+    "submission_id": "CF116795578",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116795578",
+    "tags": [
+      "hashing",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/20/2021 20:49"
+  },
   "CF116870398": {
     "contest_id": 1527,
     "language": "GNU C++17 (64)",
