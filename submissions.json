@@ -4333,6 +4333,23 @@
     ],
     "timestamp": "May/19/2021 08:44"
   },
+  "CF116770609": {
+    "contest_id": 1527,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1527\\B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Palindrome Game (easy version)",
+    "problem_url": "https://codeforces.com/contest/1527/problem/B1",
+    "submission_id": "CF116770609",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116770609",
+    "tags": [
+      "dp",
+      "games",
+      "*1200"
+    ],
+    "timestamp": "May/20/2021 20:22"
+  },
   "CF116795578": {
     "contest_id": 1527,
     "language": "GNU C++17 (64)",
