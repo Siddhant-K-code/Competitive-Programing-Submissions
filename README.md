@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+261 | [D - aab aba baa](https://atcoder.jp/contests/abc202/tasks/abc202_d) | [C++ (GCC 9.2.1)](./atcoder/abc202/D.cpp) | `AtCoder` `*400` | May/22/2021 18:29 | 
 260 | [B2 - Palindrome Game (hard version)](https://codeforces.com/contest/1527/problem/B2) | [GNU C++17 (64)](./codeforces/1527/B2.cpp) | `constructive algorithms` `dp` `games` `*1900` | May/21/2021 08:20 | 
 259 | [C - Sequence Pair Weight](https://codeforces.com/contest/1527/problem/C) | [GNU C++17 (64)](./codeforces/1527/C.cpp) | `hashing` `implementation` `math` `*1600` | May/20/2021 20:49 | 
 258 | [B1 - Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | [GNU C++17 (64)](./codeforces/1527/B1.cpp) | `dp` `games` `*1200` | May/20/2021 20:22 | 
