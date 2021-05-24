@@ -4466,6 +4466,23 @@
     ],
     "timestamp": "May/21/2021 08:20"
   },
+  "CF117220083": {
+    "contest_id": 1529,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1529\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sifid and Strange Subsequences",
+    "problem_url": "https://codeforces.com/contest/1529/problem/B",
+    "submission_id": "CF117220083",
+    "submission_url": "https://codeforces.com/contest/1529/submission/117220083",
+    "tags": [
+      "greedy",
+      "number theory",
+      "sortings"
+    ],
+    "timestamp": "May/24/2021 20:56"
+  },
   "CF117239480": {
     "contest_id": 1529,
     "language": "GNU C++17 (64)",
