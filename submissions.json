@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "May/22/2021 18:29"
   },
+  "AC23025744": {
+    "contest_id": "arc121",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc121\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "RGB Matching",
+    "problem_url": "https://atcoder.jp/contests/arc121/tasks/arc121_b",
+    "submission_id": "AC23025744",
+    "submission_url": "https://atcoder.jp/contests/arc121/submissions/23025744",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/30/2021 12:17"
+  },
   "CF100002343": {
     "contest_id": 1455,
     "language": "GNU C++17",
