@@ -1807,6 +1807,22 @@
     ],
     "timestamp": "May/22/2021 18:29"
   },
+  "AC23025212": {
+    "contest_id": "arc121",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc121\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "2nd Greatest Distance",
+    "problem_url": "https://atcoder.jp/contests/arc121/tasks/arc121_a",
+    "submission_id": "AC23025212",
+    "submission_url": "https://atcoder.jp/contests/arc121/submissions/23025212",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/30/2021 12:01"
+  },
   "AC23025744": {
     "contest_id": "arc121",
     "language": "C++ (GCC 9.2.1)",
