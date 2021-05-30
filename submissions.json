@@ -1839,6 +1839,22 @@
     ],
     "timestamp": "May/30/2021 12:17"
   },
+  "AC23042879": {
+    "contest_id": "abc203",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc203\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Chinchirorin",
+    "problem_url": "https://atcoder.jp/contests/abc203/tasks/abc203_a",
+    "submission_id": "AC23042879",
+    "submission_url": "https://atcoder.jp/contests/abc203/submissions/23042879",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/30/2021 17:35"
+  },
   "AC23046920": {
     "contest_id": "abc203",
     "language": "C++ (GCC 9.2.1)",
