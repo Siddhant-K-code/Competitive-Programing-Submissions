@@ -4713,6 +4713,22 @@
     ],
     "timestamp": "May/29/2021 08:50"
   },
+  "CF117947786": {
+    "contest_id": 1523,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1523\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lord of the Values",
+    "problem_url": "https://codeforces.com/contest/1523/problem/B",
+    "submission_id": "CF117947786",
+    "submission_url": "https://codeforces.com/contest/1523/submission/117947786",
+    "tags": [
+      "constructive algorithms",
+      "*1100"
+    ],
+    "timestamp": "May/31/2021 09:24"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
