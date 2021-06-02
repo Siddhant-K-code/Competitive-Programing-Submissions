@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "May/31/2021 09:24"
   },
+  "CF118160546": {
+    "contest_id": 1436,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1436\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prime Square",
+    "problem_url": "https://codeforces.com/contest/1436/problem/B",
+    "submission_id": "CF118160546",
+    "submission_url": "https://codeforces.com/contest/1436/submission/118160546",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/02/2021 12:27"
+  },
   "CF118180916": {
     "contest_id": 1421,
     "language": "GNU C++17 (64)",
