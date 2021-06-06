@@ -1919,6 +1919,22 @@
     ],
     "timestamp": "May/30/2021 19:00"
   },
+  "AC23255594": {
+    "contest_id": "abc204",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc204\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Rush Hour 2",
+    "problem_url": "https://atcoder.jp/contests/abc204/tasks/abc204_e",
+    "submission_id": "AC23255594",
+    "submission_url": "https://atcoder.jp/contests/abc204/submissions/23255594",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/06/2021 19:10"
+  },
   "CF100002343": {
     "contest_id": 1455,
     "language": "GNU C++17",
