@@ -1919,6 +1919,22 @@
     ],
     "timestamp": "May/30/2021 19:00"
   },
+  "AC23252715": {
+    "contest_id": "abc204",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc204\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Tour",
+    "problem_url": "https://atcoder.jp/contests/abc204/tasks/abc204_c",
+    "submission_id": "AC23252715",
+    "submission_url": "https://atcoder.jp/contests/abc204/submissions/23252715",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/06/2021 19:03"
+  },
   "AC23253462": {
     "contest_id": "abc204",
     "language": "C++ (GCC 9.2.1)",
