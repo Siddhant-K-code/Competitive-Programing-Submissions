@@ -5091,6 +5091,21 @@
     ],
     "timestamp": "Jun/10/2021 17:00"
   },
+  "CF119075584": {
+    "contest_id": 1538,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1538\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friends and Candies",
+    "problem_url": "https://codeforces.com/contest/1538/problem/B",
+    "submission_id": "CF119075584",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119075584",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Jun/10/2021 22:26"
+  },
   "CF119075892": {
     "contest_id": 1538,
     "language": "GNU C++17 (64)",
