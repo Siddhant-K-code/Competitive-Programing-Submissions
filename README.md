@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+301 | [A - Cut Ribbon](https://codeforces.com/contest/189/problem/A) | [GNU C++17 (64)](./codeforces/189/A.cpp) | `brute force` `dp` `*1300` | Jun/10/2021 17:00 | 
 300 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++17 (64)](./codeforces/230/B.cpp) | `binary search` `implementation` `math` `number theory` `*1300` | Jun/10/2021 16:24 | 
 299 | [C - Registration System](https://codeforces.com/contest/4/problem/C) | [GNU C++17 (64)](./codeforces/4/C.cpp) | `data structures` `hashing` `implementation` `*1300` | Jun/10/2021 15:58 | 
 298 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [GNU C++17 (64)](./codeforces/25/A.cpp) | `brute force` `*1300` | Jun/10/2021 15:35 | 
