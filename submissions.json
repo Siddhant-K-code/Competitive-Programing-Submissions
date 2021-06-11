@@ -5137,6 +5137,22 @@
     ],
     "timestamp": "Jun/10/2021 22:28"
   },
+  "CF119110360": {
+    "contest_id": 1538,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1538\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Another Problem About Dividing Numbers",
+    "problem_url": "https://codeforces.com/contest/1538/problem/D",
+    "submission_id": "CF119110360",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119110360",
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ],
+    "timestamp": "Jun/11/2021 08:49"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
