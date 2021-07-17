@@ -5171,6 +5171,21 @@
     ],
     "timestamp": "Jun/11/2021 13:47"
   },
+  "CF122781793": {
+    "contest_id": 1530,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1530\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Binary Decimal",
+    "problem_url": "https://codeforces.com/contest/1530/problem/A",
+    "submission_id": "CF122781793",
+    "submission_url": "https://codeforces.com/contest/1530/submission/122781793",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Jul/17/2021 20:11"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
